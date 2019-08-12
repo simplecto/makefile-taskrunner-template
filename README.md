@@ -1,6 +1,8 @@
 # Purpose
 I use a Makefile as a task-runner. You can put this in your folder and modify as you see fit.
 
+[![asciicast](https://asciinema.org/a/Z6RbcIetvfTWyQt8xCLobTm7B.svg)](https://asciinema.org/a/Z6RbcIetvfTWyQt8xCLobTm7B)
+
 ## Requirements
 I make some assumptions here.
 
@@ -17,6 +19,8 @@ simplecto:~ sam$ make
 sample                         This is a sample command
 simplecto:~ sam$
 ```
+
+
 
 If you see the above then you are good to go. Simply start making additions to your `Makefile`.
 
