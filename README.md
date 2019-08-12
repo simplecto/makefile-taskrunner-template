@@ -3,6 +3,11 @@ I use a Makefile as a task-runner. You can put this in your folder and modify as
 
 [![asciicast](https://asciinema.org/a/Z6RbcIetvfTWyQt8xCLobTm7B.svg)](https://asciinema.org/a/Z6RbcIetvfTWyQt8xCLobTm7B)
 
+## A more complex example
+
+[![asciicast](https://asciinema.org/a/262039.svg)](https://asciinema.org/a/262039)
+
+
 ## Requirements
 I make some assumptions here.
 
