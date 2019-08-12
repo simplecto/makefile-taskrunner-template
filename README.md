@@ -12,8 +12,10 @@ Simply copy the Makefile into a folder where you will run your shortcuts or auto
 Simple typing `make` in the same folder shoudl output the following:
 
 ```
-samtexas:makefile-template sam$ make
+simplecto:~ sam$ curl -sL https://simplecto.com/makefile/ > Makefile
+simplecto:~ sam$ make
 sample                         This is a sample command
+simplecto:~ sam$
 ```
 
 If you see the above then you are good to go. Simply start making additions to your `Makefile`.
